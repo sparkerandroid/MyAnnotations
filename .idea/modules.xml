@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyAnnotations.iml" filepath="$PROJECT_DIR$/MyAnnotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation_api/annotation_api.iml" filepath="$PROJECT_DIR$/annotation_api/annotation_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation_processor/annotation_processor.iml" filepath="$PROJECT_DIR$/annotation_processor/annotation_processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
